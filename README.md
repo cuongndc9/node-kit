@@ -51,4 +51,4 @@ docker run --name node-kit -it -p 9000:9000 --network=node-kit-net --env-file ./
 
 ## License
 
-MIT © [103cuong](https://github.com/103cuong)
+MIT © [cuongndc9](https://github.com/cuongndc9)
